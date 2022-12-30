@@ -1,7 +1,0 @@
-# what i have learned?
-- *Repositories* : A repository (or "repo" for short) is a directory that contains all the files for a project, as well as a history of all the changes made to those files.
-- *Commit* : A commit is a snapshot of the repository at a particular point in time. When you make changes to the repository and want to save those changes, you create a commit. Each commit has a unique identifier called a "commit hash" that can be used to reference it.
-- *Branch* : A branch is a separate line of development in a repository. When you create a branch, you can make changes to the repository without affecting the main branch (usually called "master"). This allows you to work on new features or fixes without disrupting the main codebase.
-- *Merge*: When you are finished working on a branch, you can merge your changes back into the main branch (or another branch) using a process called "merging". This combines the changes from the two branches into a single commit.
-- *Push*: When you are working on a repository on your own computer, you can "push" your commits to a remote repository (such as one hosted on GitHub) to share your work with others or to back up your changes.
-- *Pull*: When you want to update your local repository with changes that have been made to the remote repository, you can use the "pull" command to retrieve those changes and incorporate them into your local repository.
